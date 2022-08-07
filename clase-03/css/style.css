@@ -1,0 +1,15 @@
+h2
+{
+    font-size: 24px;
+}
+
+#contendor
+{
+    font-size: 20px;
+    color:blue;
+}
+
+#contenedor, p{
+    color: red;
+    font-size: 1em;
+}
